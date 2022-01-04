@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![NFT Card Challenge Screenshot](screenshot.png)
 
 
 ### Links
