@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-card-LvfrnGTWd](https://www.frontendmentor.io/solutions/nft-card-LvfrnGTWd)
+- Live Site URL: [https://vitoralves2c.github.io/Frontend-Mentor-NFT-Card-Challenge/](https://vitoralves2c.github.io/Frontend-Mentor-NFT-Card-Challenge/)
 
 
 ## My process
