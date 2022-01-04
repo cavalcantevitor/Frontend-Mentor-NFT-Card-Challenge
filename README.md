@@ -13,7 +13,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
+
 ## Overview
+
 
 ### The challenge
 
@@ -22,16 +24,20 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+
 ### Screenshot
 
 ![](./screenshot.jpg)
+
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
+
 ## My process
+
 
 ### Built with
 
@@ -40,10 +46,12 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
+
 ### Useful resources
 
 - [MDN Docs](https://developer.mozilla.org/en-US/) - Mozilla Developer Network helped with some CSS properties that I needed while I was styling the project.
 - [W3Schools](https://www.w3schools.com/) - W3Schools was very useful during the styling process of the project because on top of a good documentation it also has live examples to show you how things work, which is veru helpful.
+
 
 ## Author
 
